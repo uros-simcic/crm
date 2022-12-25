@@ -59,7 +59,7 @@ GRANT INSERT, UPDATE, DELETE ON TABLES TO urosss;
 
 ________________
 
-# ESCAPE FUNCTIONS NOTES
+ESCAPE FUNCTIONS NOTES
 
 htmlspecialchars
 
