@@ -1,7 +1,7 @@
 # crm
 Simple crm
 
-#DATABASE NOTES
+DATABASE NOTES
 
 psql
 \l
