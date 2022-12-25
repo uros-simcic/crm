@@ -55,6 +55,7 @@ CREATE TABLE users1 (
 ALTER DEFAULT PRIVILEGES IN SCHEMA public
 GRANT INSERT, UPDATE, DELETE ON TABLES TO urosss;
 
+________________
 
 htmlspecialchars
 
